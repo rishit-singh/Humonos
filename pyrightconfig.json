@@ -1,0 +1,5 @@
+{
+  "venvPath": ".",
+  "venv": "backend/venv",
+  "pythonVersion": "3.12"
+}
